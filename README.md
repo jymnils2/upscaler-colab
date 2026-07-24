@@ -3,9 +3,8 @@
 **Author:** [Your Name]
 **Contact:** [GitHub / Discord / Email]
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/upscaler-colab/blob/main/notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jymnils2/upscaler-colab/blob/main/notebook.ipynb)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-
 ## The Reality
 
 Image super-resolution has advanced enormously. Models capable of upscaling images to impressive resolutions are published every day. But most users don't have a powerful GPU in their computer. This creates a gap: repositories full of extraordinary models that only those with dedicated hardware can use. If you don't have a GPU, you're left out.
